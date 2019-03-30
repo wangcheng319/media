@@ -12,5 +12,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         var b1 = 1
+        var c1 = 1
+        var d1 = 1
+
     }
 }
